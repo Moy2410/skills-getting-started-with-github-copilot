@@ -1,4 +1,5 @@
-fastapi
+fastapi>=0.115.0,<0.116.0
 uvicorn
-httpx
+httpx>=0.28.0,<0.29.0
 watchfiles
+pytest
